@@ -1,2 +1,2 @@
-import{jsx as n}from"react/jsx-runtime";var r=function(){return n("button",{onClick:function(){return console.log(1111)},children:"Increment"})};export{r as Increment};
+import{jsx as n}from"react/jsx-runtime";var o=function(){return n("button",{onClick:function(){console.log("hello world")},children:"Increment"})};export{o as Increment};
 //# sourceMappingURL=index.js.map
