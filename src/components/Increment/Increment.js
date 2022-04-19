@@ -1,8 +1,6 @@
 export const Increment = () => {
   const handleClick = () => {
-    console.log("hello world");
-    //@ts-ignore
-    // dispatch(setDecrementValue());
+    console.log("hello worlddd");
   };
 
   return <button onClick={handleClick}>Increment</button>;
