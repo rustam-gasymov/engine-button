@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["../src/components/Increment/Increment.js"],"sourcesContent":["export const Increment = () => {\r\n  return <button>Increment</button>;\r\n};\r\n"],"names":["Increment","_jsx","children"],"mappings":"wCAAaA,IAAAA,EAAY,WAChB,OAAAC,EAAA,SAAA,CAAAC,SAAA"}
